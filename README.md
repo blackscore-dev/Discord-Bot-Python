@@ -12,7 +12,7 @@ Estare agregando mas cosas para este repositorio como secciones de moderacion y 
 gracias por su atencion att blackscore
 
 # Link de repositorio 
-https://github.com/blackscore-dev/Discord-Bot-Python
+https://github.com/blackscore-dev/Discord-Bot-Python/tree/main
 
 # Creador:
 Blackscore-Dev
